@@ -121,7 +121,6 @@
         <script type="text/javascript" src="javascript/jquery.cookie.js"></script>    
         <script type="text/javascript" src="javascript/jquery.fitvids.js"></script>    
         <script type="text/javascript" src="javascript/parallax.js"></script>
-        <script type="text/javascript" src="javascript/switcher.js"></script>
         <script type="text/javascript" src="javascript/main.js"></script>
         
         <!-- Revolution Slider -->
