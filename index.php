@@ -7,7 +7,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Nah html template</title>
+    <title>Bravo Security</title>
     <?php 
     include "header.php";
      ?>
@@ -19,13 +19,11 @@
                         <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
                         <img src="images/slides/1.jpg" alt="slider-image" />
 
-                            <div class="tp-caption sft" data-x="508" data-y="235" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
+                            <div class="tp-caption sft" data-x="460" data-y="235" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
                                 <img src="images/slides/1.png" alt="images" data-easing="Power3.easeInOut">
                             </div>
 
-                            <div class="tp-caption sft desc-slide center color-white" data-x="411" data-y="345" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">We are construction partners.</div>
-
-                            <div class="tp-caption sfb title-slide box center color-white large" data-x="174" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">The Builders We Are The Best</div>
+                            <div class="tp-caption sfb title-slide box center color-white large" data-x="10" data-y="450" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Servicios Especiales de Seguridad Privada</div>
 
                             <div class="tp-caption sft button-slider" data-x="509" data-y="539" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
                                 <a href="#">Who we are</a>                          
@@ -34,7 +32,7 @@
                         </li>
 
                         <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                            <img src="images/slides/2.jpg" alt="slider-image" />
+                            <img src="images/slides/2.png" alt="slider-image" />
 
                             <div class="tp-caption sfl"   data-x="508" data-y="235" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
                                 <img src="images/slides/1.png" alt="images" data-easing="Power3.easeInOut">
