@@ -1,0 +1,5 @@
+commit b5b12c841acd62ac3734ab4d3f41f656cc8d8a3d
+Author: David <David>
+Date:   Sun Jul 10 13:38:18 2016 -0500
+
+    Inicio de proyecto con template
