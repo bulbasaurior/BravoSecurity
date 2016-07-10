@@ -26,7 +26,7 @@
                             <div class="tp-caption sfb title-slide box center color-white large" data-x="10" data-y="400" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Servicios Especiales de Seguridad Privada</div>
 
                             <div class="tp-caption sft button-slider" data-x="509" data-y="510" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a href="#">Who we are</a>                          
+                                <a href="#">CONTACTO</a>                          
                             </div>
                             
                         </li>
@@ -34,35 +34,29 @@
                         <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
                             <img src="images/slides/2.png" alt="slider-image" />
 
-                            <div class="tp-caption sfl"   data-x="508" data-y="235" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
+                            <div class="tp-caption sfl"   data-x="460" data-y="180" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
                                 <img src="images/slides/1.png" alt="images" data-easing="Power3.easeInOut">
                             </div>
 
-                            <div class="tp-caption sfb desc-slide center color-white" data-x="411" data-y="345" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">We are construction partners.</div>
-
-                            <div class="tp-caption sft title-slide box center color-white large" data-x="174" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">The Builders We Are The Best</div>
-                            
-
-                            <div class="tp-caption sfr button-slider" data-x="509" data-y="539" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a href="#">Who we are</a>
-                            </div>
+                            <div class="tp-caption sft title-slide box center color-white large" data-x="50" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Somos una empresa 100% Mexicana</div>
+                        
 
                         </li>
 
                         <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
                             <img src="images/slides/3.jpg" alt="slider-image" />
 
-                            <div class="tp-caption sfr"   data-x="508" data-y="235" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
+                            <div class="tp-caption sfr"   data-x="460" data-y="180" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
                                 <img src="images/slides/1.png" alt="images" data-easing="Power3.easeInOut">
                             </div>
 
-                            <div class="tp-caption sfr desc-slide center color-white" data-x="411" data-y="345" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">We are construction partners.</div>
+                            <div class="tp-caption sfr title-slide box center color-white large" data-x="104" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">“Contribuir al restablecimiento de </div>
 
-                            <div class="tp-caption sfr title-slide box center color-white large" data-x="174" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">The Builders We Are The Best</div>
+                            <div class="tp-caption sfr title-slide box center color-white large" data-x="3200" data-y="487" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">un México seguro”</div>
                             
 
-                            <div class="tp-caption sfr button-slider"   data-x="509" data-y="539" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a href="#">Who we are</a>
+                            <div class="tp-caption sfr button-slider"   data-x="509" data-y="559" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
+                                <a href="#">NOSOTROS</a>
                             </div>
                             
                         </li>
@@ -84,8 +78,8 @@
                                     </div>
                                     <div class="content">
                                          <span>01</span>
-                                         <h6>House construction</h6>
-                                         <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
+                                         <h6>Seguridad a instalaciones</h6>
+                                         <p>La clave para un servicio de seguridad a instalaciones de calidad se encuentra en la selección, capacitación y supervisión del personal de guardias, así como las dinámicas implementadas a partir de un estudio meticuloso de la instalación.</p>
                                     </div>
                                 </div>
                                 <div class="flat-services item">
@@ -107,68 +101,6 @@
                                         <h6>Interior solutions</h6>
                                         <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
                                     </div>
-                                </div>
-
-                                <div class="flat-services item">
-                                    <div class="wrap-img">
-                                        <img src="images/member/01-Home-v1.jpg" alt="images">
-                                    </div>
-                                    <div class="content">
-                                         <span>01</span>
-                                         <h6>House construction</h6>
-                                         <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
-                                    </div>
-                                </div>
-                                <div class="flat-services item">
-                                    <div class="wrap-img">
-                                        <img src="images/member/02-Home-v1.jpg" alt="images">
-                                    </div>
-                                     <div class="content">
-                                        <span>02</span>
-                                        <h6>Services mapping</h6>
-                                        <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
-                                     </div>
-                                </div>
-                                <div class="flat-services item">
-                                    <div class="wrap-img">
-                                        <img src="images/member/03-Home-v1.jpg" alt="images">
-                                    </div>
-                                     <div class="content">
-                                        <span>03</span>
-                                        <h6>Interior solutions</h6>
-                                        <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
-                                     </div>
-                                </div>
-
-                                <div class="flat-services item">
-                                    <div class="wrap-img">
-                                        <img src="images/member/01-Home-v1.jpg" alt="images">
-                                    </div>
-                                    <div class="content">
-                                         <span>01</span>
-                                         <h6>House construction</h6>
-                                         <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
-                                    </div>
-                                </div>
-                                <div class="flat-services item">
-                                    <div class="wrap-img">
-                                        <img src="images/member/02-Home-v1.jpg" alt="images">
-                                    </div>
-                                     <div class="content">
-                                        <span>02</span>
-                                        <h6>Services mapping</h6>
-                                        <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
-                                     </div>
-                                </div>
-                                <div class="flat-services item">
-                                    <div class="wrap-img">
-                                        <img src="images/member/03-Home-v1.jpg" alt="images" >
-                                    </div>
-                                     <div class="content">
-                                        <span>03</span>
-                                        <h6>Interior solutions</h6>
-                                        <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
-                                     </div>
                                 </div>
 
                                 
@@ -330,152 +262,6 @@
                     </div>
                 </div><!-- /.row -->
             </div><!-- /.container -->        
-        </section>
-
-        <!-- Flat-gallery -->
-        <section class="flat-row pad-top85px wrap-gallery">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="flat-title mag-bottom40px">
-                            <h3>The Gallery <span></span></h3>
-                            <div class="decs">
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                            </div><!-- /.decs -->
-                        </div><!-- /.flat-title -->
-                    </div><!-- /col-md-12 -->
-                    <div class="col-md-12">
-                        <div class="portfolio-wrap clearfix">
-                            <div class="flat-gallery">
-                                <div class="item v2">
-                                    <div class="icon">
-                                        <img src="images/gallery/creative/2.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                           
-                                <div class="item v2">
-                                    <div class="icon">
-                                        <img src="images/gallery/creative/3.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                            
-                                <div class="item v1">
-                                    <div class="icon">
-                                        <img src="images/gallery/creative/1.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                            
-                                <div class="item v1">
-                                    <div class="icon">
-                                        <img src="images/gallery/creative/4.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                          
-                                <div class="item v2">
-                                    <div class="icon">
-                                        <img src="images/gallery/creative/5.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                            
-                                <div class="item v2">
-                                   <div class="icon">
-                                        <img src="images/gallery/creative/6.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                          
-                                <div class="item v1">
-                                    <div class="icon">
-                                        <img src="images/gallery/creative/8.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                           
-                                <div class="item v1">
-                                    <div class="icon">
-                                        <img src="images/gallery/creative/7.jpg" alt="image">
-                                        <div class="hover">
-                                        </div><!-- /.hover -->
-                                    </div>
-                                    <div class="gallery-content">
-                                        <ul class="gallery-link">
-                                            <li class="icon-s FromLeft"><a href="#"><span><i class="search"></i></span></a></li>
-                                            <li class="icon-l FromRight"><a href="#"><span><i class="location"></i></span></a></li>
-                                        </ul>
-                                        <h5>Build Design</h5>
-                                    </div><!-- /.gallery-content -->
-                                </div>  <!-- /item -->      
-                            </div><!-- /flat-gallery -->
-                        </div><!-- /portfolio-wrap -->
-                    </div><!-- /col-md-12 -->
-                    <div class="col-md-12" >
-                        <div class="wrap-button-gallery text-center">
-                            <button class="button button--isi button--text-thick button--text-upper button--size-s"><span>View all Gallery</span></button>
-                        </div>
-                    </div>
-                </div><!-- /row -->
-            </div> <!-- /container -->
         </section>
 
         <!-- Testimonials -->
