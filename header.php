@@ -66,8 +66,8 @@
                                         <li><a href="serv9.php">Blindado de Vehículos</a></li>
                                     </ul><!-- /.submenu -->
                                 </li>                                 
-                                <li><a href="about.html">Nosotros</a></li>                           
-                                <li><a href="contact.html">Contacto</a></li>
+                                <li><a href="about.php">Nosotros</a></li>                           
+                                <li><a href="contact.php">Contacto</a></li>
                             </ul><!-- /.menu -->
                         </nav><!-- /.mainnav -->
                     </div><!-- /.nav-wrap -->                                     

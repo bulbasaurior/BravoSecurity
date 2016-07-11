@@ -56,7 +56,7 @@
                             
 
                             <div class="tp-caption sfr button-slider"   data-x="509" data-y="559" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a class="btn btn-block" href="#">NOSOTROS</a>
+                                <a class="btn btn-block" href="about.php">NOSOTROS</a>
                             </div>
                             
                         </li>
@@ -106,7 +106,7 @@
                             </div>
                                 <br><br>
                                 <div class="col-md-4 col-center tp-caption sfr button-slider">
-                                <a class="btn btn-block" href="services.php">Conoce Máss</a>
+                                <a class="btn btn-block" href="services.php">Conoce Más</a>
                                 </div>
                         </div><!-- /.flat-carousel -->
                     </div> <!-- /.col-md-12 -->

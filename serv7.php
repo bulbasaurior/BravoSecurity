@@ -42,26 +42,14 @@
                 </div><!-- /.row -->
                        
                 <div class="row">
-
-                    <div class="col-md-6">
-                                <img src="images/services/single/7.jpg" class="img-responsive">
-                                <br>
-                                <div class="flat-single">
-                                    <div class="content">
-                                        <h4 class="title"><a href="#">Escenarios </a></h4>
-                                        <img src="images/services/single/vallas/5.png" class="img-responsive col-center">
-                                    </div>
-                                </div>
-                    </div><!-- /col-md-6 -->
-
                     <div id="left" class="col-md-6">
                         <div class="flat-single">
                             <div class="content col-md-12">
-                                <h4 class="title"><a href="#">Vallas perimetrales </a></h4>
+                                <h4 class="title text-center">Vallas perimetrales</h4>
                                 <div class="content col-md-12">
                                     <div class="col-md-6">
-                                        <img src="images/services/single/vallas/1.png" class="img-responsive">
-                                        <p>Valla antimotín</p>
+                                        <img src="images/services/single/vallas/4.png" class="img-responsive">                      
+                                        <p>Valla popote</p>
                                     </div>
                                     <div class="col-md-6">
                                         <img src="images/services/single/vallas/2.png" class="img-responsive">
@@ -74,13 +62,23 @@
                                         <p>Valla barricada</p>
                                     </div>
                                     <div class="col-md-6">
-                                        <img src="images/services/single/vallas/4.png" class="img-responsive">                      
-                                        <p>Valla popote</p>
+                                        <img src="images/services/single/vallas/1.png" class="img-responsive">
+                                        <p>Valla antimotín</p>
+                                        
                                     </div>
                                 </div> 
                             </div>
                         </div>
                     </div><!-- /col-md-6 --> 
+
+                     <div class="col-md-6">
+                                <div class="flat-single">
+                                    <div class="content">
+                                        <h4 class="title text-center">Escenarios</h4>
+                                        <img src="images/services/single/vallas/5.png" class="img-responsive col-center" style="width: 80%;">
+                                    </div>
+                                </div>
+                    </div><!-- /col-md-6 -->
                 </div><!-- /.row -->
                             
             </div><!-- /.container -->   
