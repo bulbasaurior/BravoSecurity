@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
-
-<!-- Mirrored from themesflat.com/html/nah/services-v1.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jul 2016 22:26:09 GMT -->
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8">

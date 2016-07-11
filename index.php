@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
-
-<!-- Mirrored from themesflat.com/html/nah/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jul 2016 22:19:09 GMT -->
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
@@ -26,7 +22,7 @@
                             <div class="tp-caption sfb title-slide box center color-white large" data-x="10" data-y="400" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Servicios Especiales de Seguridad Privada</div>
 
                             <div class="tp-caption sft button-slider" data-x="509" data-y="510" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a class="btn btn-block" href="#">CONTACTO</a>                          
+                                <a class="btn btn-block" href="contact.php">CONTACTO</a>                          
                             </div>
                             
                         </li>
