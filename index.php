@@ -52,7 +52,7 @@
 
                             <div class="tp-caption sfr title-slide box center color-white large" data-x="104" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">“Contribuir al restablecimiento de </div>
 
-                            <div class="tp-caption sfr title-slide box center color-white large" data-x="3200" data-y="487" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">un México seguro”</div>
+                            <div class="tp-caption sfr title-slide box center color-white large" data-x="320" data-y="487" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">un México seguro”</div>
                             
 
                             <div class="tp-caption sfr button-slider"   data-x="509" data-y="559" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
@@ -78,7 +78,7 @@
                                     </div>
                                     <div class="content">
                                          <span>01</span>
-                                         <h6>Seguridad a instalaciones</h6>
+                                         <h6>Seguridad para instalaciones</h6>
                                          <p>La clave para un servicio de seguridad a instalaciones de calidad se encuentra en la selección, capacitación y supervisión del personal de guardias, así como las dinámicas implementadas a partir de un estudio meticuloso de la instalación.</p>
                                     </div>
                                 </div>
@@ -88,8 +88,8 @@
                                     </div>
                                      <div class="content">
                                         <span>02</span>
-                                        <h6>Services mapping</h6>
-                                        <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
+                                        <h6>Seguridad para eventos</h6>
+                                        <p>Nuestra empresa es capaz de proveer cada aspecto de la seguridad en un evento. Esto incluye el material para delimitar perímetros y a los agentes que controlan el acceso al evento, flujo de asistentes y seguridad personal de expositores. </p>
                                      </div>
                                 </div>
                                 <div class="flat-services item">
@@ -98,12 +98,15 @@
                                     </div>
                                     <div class="content">
                                         <span>03</span>
-                                        <h6>Interior solutions</h6>
-                                        <p>Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up</p>
-                                    </div>
+                                        <h6>Seguridad personal</h6>
+                                        <p>Bravo es capaz de proveer el nivel de seguridad personal que su situación amerite. Lo anterior con las licencias requeridas por ley y personal extensivamente evaluado, capacitado y experimentado.</p>
+                                     </div>
                                 </div>
 
-                                
+                            </div>
+                                <br><br>
+                                <div class="col-md-5 col-center">
+                                <button class="btn button-success btn-block btn-lg" href="#">VER MÁS</button> 
                             </div>
                         </div><!-- /.flat-carousel -->
                     </div> <!-- /.col-md-12 -->
@@ -111,444 +114,56 @@
             </div> <!-- /.container -->
         </section>
 
-        <!-- Flat-iconbox -->
-        <section class="flat-row wrap-iconbox">
+ <!-- Counter -->
+        <section class="flat-row row-flat-counter">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
-                        <div class="flat-title">
-                            <h3>What We Do <span></span></h3>
-                            <div class="decs">
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                            </div><!-- /.decs -->
-                        </div><!-- /.flat-title -->
-                    </div>
-
-                    <div class="col-md-12">
-                        <div class="flat-carousel">
-                            <div class="owl-carousel-iconbox">
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/1.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Brilliant Ideas</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-                                
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/2.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Good Planning</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/3.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Quick Operations</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/4.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Professionals</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/5.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Safe Work</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/1.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Brilliant Ideas</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-                                
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/2.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Good Planning</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/3.png" alt="image"> 
-                                    </div>
-                                    <div class="content">
-                                        <p>Quick Operations</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/4.png" alt="image">
-                                    </div>
-                                    <div class="content">
-                                        <p>Professionals</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                                <div class="flat-iconbox">
-                                    <div class="box-icon">
-                                        <img src="images/icon/5.png" alt="image">
-                                    </div>
-                                    <div class="content">
-                                        <p>Safe Work</p>
-                                        <a class="more" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                                    </div>
-                                    <div class="overlay">
-                                        <img src="images/images/bgicon1.jpg"  alt="image">
-                                    </div>
-                                </div> <!-- /.flat-iconbox -->
-
-                            </div><!-- /.owl-carousel -->
-                        </div><!-- /.flat-carousel -->
-                    </div>
-                </div><!-- /.row -->
-            </div><!-- /.container -->        
-        </section>
-
-        <!-- Testimonials -->
-        <section class="flat-row pad-top0px pad-bottom110px row-testimonilas-slider">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="flat-title">
-                            <h3>Testimonials <span></span></h3>
-                            <div class="decs">
-                                Sed ut perspiciatis unde omnis iste voluptatem accusantium
-                            </div><!-- /.decs -->
-                        </div><!-- /.flat-title -->
-                        <div class="flat-testimonials-images">
-                            <div class="flat-testimonials-slider">
-                                <div id="flat-testimonials-carousel">
-                                    <ul class="slides">
-                                        <li>
-                                            <img class="img-circle" alt="image" src="images/testimonial/1.jpg">
-                                            <div class="overlay"></div>
-                                        </li>
-                                        <li>
-                                            <img class="img-circle" alt="image" src="images/testimonial/2.jpg">
-                                            <div class="overlay"></div>
-                                        </li>
-                                        <li>
-                                            <img class="img-circle" alt="image" src="images/testimonial/3.jpg">
-                                            <div class="overlay"></div>
-                                        </li>
-                                        <li>
-                                            <img class="img-circle" alt="image" src="images/testimonial/4.jpg">
-                                            <div class="overlay"></div>
-                                        </li>
-                                                                  
-                                    </ul>
-                                </div>
-                                <div id="flat-testimonials-flexslider">
-                                    <ul class="slides">
-                                        <li>
-                                            <div class="job">Web Designer</div>
-                                            <h6>Edward Carlson</h6>
-                                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
-                                            <p>Et harum quidem rerum facilis est et expedita distinctio. Nam tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis voluptas</p>
-                                        </li>
-                                        <li>
-                                            <div class="job">Web Designer</div>
-                                            <h6>Edward Carlson</h6>
-                                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
-                                            <p>Et harum quidem rerum facilis est et expedita distinctio. Nam tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis voluptas</p>
-                                        </li>
-                                        <li>
-                                            <div class="job">Web Designer</div>
-                                            <h6>Edward Carlson</h6>
-                                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
-                                            <p>Et harum quidem rerum facilis est et expedita distinctio. Nam tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis voluptas</p>
-                                        </li>
-                                        <li>
-                                            <div class="job">Web Designer</div>
-                                            <h6>Edward Carlson</h6>
-                                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
-                                            <p>Et harum quidem rerum facilis est et expedita distinctio. Nam tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis voluptas</p>
-                                        </li>
-                                        <li>
-                                            <div class="job">Web Designer</div>
-                                            <h6>Edward Carlson</h6>
-                                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
-                                            <p>Et harum quidem rerum facilis est et expedita distinctio. Nam tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis voluptas</p>
-                                        </li>
-                                                                          
-                                    </ul>
-                                </div>
-                                
-                            </div><!-- /.flat-testimonials-slider -->
-                        </div><!-- /.flat-testimonials -->
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="flat-title">
-                            <h3>From Blog <span></span></h3>
-                            <div class="decs">
-                                Sed ut perspiciatis unde omnis iste voluptatem accusantium
-                            </div><!-- /.decs -->
-                        </div><!-- /.flat-title -->
-
-                        <div class="from-blog">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <article class="entry clearfix">
-                                        <div class="entry-border">
-                                            <div class="feature-post">
-                                                <a href="blog-singel-v1.html"><img src="images/blog/h1.jpg" alt="image"></a>
-                                            </div><!-- /.feature-post -->
-                                            <div class="main-post">
-                                                <div class="entry-meta">
-                                                    <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                    <span class="date">20 March, 2016</span>
-                                                    <i class="fa fa-comments" aria-hidden="true"></i>
-                                                    <span class="comment"><a href="#">No comment</a></span>
-                                                </div><!-- /.entry-meta -->
-                                                <h6 class="entry-title"><a href="blog-single-sidebarleft.html">Modular hotel project com-plet in Hershey, PA</a></h6>
-                                                <div class="entry-content">
-                                                    <p>Etiam feugiat lorem non metus. Quisque libero metus, condimentum nec, tempor a, commodo mollis
-                                                    </p>                                    
-                                                </div><!-- /.entry-post -->
-                                            </div><!-- /.main-post -->
-                                        </div><!-- /.entry-border -->
-                                    </article><!-- /.entry -->
-                                </div>
-                                <div class="col-md-6">
-                                    <article class="entry clearfix">
-                                        <div class="entry-border">
-                                            <div class="feature-post">
-                                                <a href="blog-single-sidebarleft.html"><img src="images/blog/h2.jpg" alt="image"></a>
-                                            </div><!-- /.feature-post -->
-                                            <div class="main-post">
-                                                <div class="entry-meta">
-                                                    <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                    <span class="date">20 March, 2016</span>
-                                                    <i class="fa fa-comments" aria-hidden="true"></i>
-                                                    <span class="comment"><a href="#">No comment</a></span>
-                                                </div><!-- /.entry-meta -->
-                                                <h6 class="entry-title"><a href="blog-single-sidebarleft.html">Timelapse Diagonal ZeroZero Construction</a></h6>
-                                                <div class="entry-content">
-                                                    <p>Etiam feugiat lorem non metus. Quisque libero metus, condimentum nec, tempor a, commodo mollis
-                                                    </p>                                    
-                                                </div><!-- /.entry-post -->
-                                            </div><!-- /.main-post -->
-                                        </div><!-- /.entry-border -->
-                                    </article><!-- /.entry -->
-                                </div>
-                            </div> <!-- /.row -->
-                        </div>
-                    </div>
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section>
-
-        <!-- Team -->
-        <section class="flat-row parallax parallax2 wrap-flat-team pad-top85px pad-bottom0px">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="flat-title">
-                            <h3>Awesome Team <span></span></h3>
-                            <div class="decs">
-                                Sed ut perspiciatis unde omnis iste voluptatem accusantium
-                            </div><!-- /.decs -->
-                        </div><!-- /.flat-title -->
+                    <div class="col-md-4">
+                        <div class="flat-counter">                            
+                            <div class="content-counter">
+                                <div class="numb-count percentm" data-to="10" data-speed="1500" data-waypoint-active="yes">10</div>
+                                <div class="name-count">Años de Experiencia</div>
+                                <div class="desc-count">Más de diez años garantizando la seguridad de nuestros clientes nos respalda. </div>
+                            </div>
+                        </div><!-- /.flat-counter -->
                     </div>
 
                     <div class="col-md-4">
-                        <div class="flat-team"> 
-                            <div class="avatar"> 
-                                <img src="images/member/1t1.png" alt="image">
-                                <div class="content">
-                                    <h6 class="name">Danielle Reynolds</h6>  
-                                    <span class="position">Project manager</span>  
-                                    <ul class="flat-socials">
-                                        <li class="facebook">
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                        </li>
-                                        <li class="twitter">
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                        </li>
-                                        <li class="instagram">
-                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
+                        <div class="flat-counter">                            
+                            <div class="content-counter">
+                                <div class="numb-count" data-to="9" data-speed="1500" data-waypoint-active="yes">9</div>
+                                <div class="name-count">Servicios Especializados </div>
+                                <div class="desc-count">Revise nuestra sección de servicios para descubrir aquel que cubra sus necesidades.</div>
                             </div>
-                        </div> <!-- flat-team -->
-                    </div><!--  /.col-md-4 -->
+                        </div><!-- /.flat-counter -->
+                    </div>
+
 
                     <div class="col-md-4">
-                        <div class="flat-team"> 
-                            <div class="avatar"> 
-                                <img src="images/member/2t1.png" alt="image">
-                                <div class="content">
-                                    <h6 class="name">Christopher Reyes</h6>  
-                                    <span class="position">Ceo & Founder</span>  
-                                    <ul class="flat-socials">
-                                        <li class="facebook">
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                        </li>
-                                        <li class="twitter">
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                        </li>
-                                        <li class="instagram">
-                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
+                        <div class="flat-counter">
+                            <div class="content-counter ">
+                                <div class="numb-count percent" data-to="100" data-speed="1500" data-waypoint-active="yes">100</div>
+                                <div class="name-count">Clientes Satisfechos</div>
+                                <div class="desc-count">Nuestro mayor compromiso es con nuestros clientes, por ello nuestra atención hacia ellos es personalizada.</div>
                             </div>
-                        </div> <!-- flat-team -->
-                    </div><!--  /.col-md-4 -->
-
-                    <div class="col-md-4">
-                        <div class="flat-team"> 
-                            <div class="avatar"> 
-                                <img src="images/member/3t1.png" alt="image">
-                                <div class="content">
-                                    <h6 class="name">Stephen Obrien</h6>  
-                                    <span class="position">Web Designer</span>  
-                                    <ul class="flat-socials">
-                                        <li class="facebook">
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                        </li>
-                                        <li class="twitter">
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                        </li>
-                                        <li class="instagram">
-                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> <!-- flat-team -->
-                    </div><!--  /.col-md-4 -->
+                        </div><!-- /.flat-counter -->
+                    </div>
                 </div><!-- /.row -->
-            </div><!-- /.container -->
+            </div><!-- /.container -->   
         </section>
         
-        <!-- Client -->
-        <section class="flat-row wrap-client pad-bottom90px pad-top85px">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="flat-title">
-                            <h3>Our Partners <span></span></h3>
-                            <div class="decs">
-                                Sed ut perspiciatis unde omnis iste voluptatem accusantium
-                            </div><!-- /.decs -->
-                        </div><!-- /.flat-title -->
-                    </div><!-- /col-md-12 -->
+        <section class="flat-row  ">
 
-                    <div class="col-md-12">
-                        <div class="flat-carousel">
-                            <div class="owl-carousel-client">
-                                <div class="item">
-                                    <img src="images/clients/1.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/2.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/3.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/4.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/5.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/1.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/2.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/3.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/4.png" alt="images">
-                                </div>
-                                <div class="item">
-                                    <img src="images/clients/5.png" alt="images">
-                                </div>
-                            </div><!-- /owl-carousel-client -->
-                        </div><!-- /flat-carousel -->     
-                    </div><!-- /col-md-12 -->                    
-                </div><!-- /.row -->
-            </div><!-- /.container -->
+           <div class="col-md-4 col-center col-xs-10">
+               <img src="images/logoG.png" class="img-responsive ">
+           </div>
+        
         </section>
-
+        <div class="clearfix"></div>
        <?php 
        include "footer.php"
         ?>
+        
 
 </body>
 

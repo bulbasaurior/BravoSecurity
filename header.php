@@ -18,10 +18,6 @@
     <!-- Animation Style -->
     <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
 
-    <!-- Favicon and touch icons  -->
-    <link href="icon/apple-touch-icon-48-precomposed.html" rel="apple-touch-icon-precomposed" sizes="48x48">
-    <link href="icon/apple-touch-icon-32-precomposed.html" rel="apple-touch-icon-precomposed">
-    <link href="icon/favicon.png" rel="shortcut icon">
 
     <!--[if lt IE 9]>
         <script src="javascript/html5shiv.js"></script>
@@ -42,7 +38,7 @@
             <header id="header" class="header clearfix"> 
                 <div class="header-wrap clearfix">
                     <div id="logo" class="logo">
-                        <a href="index-2.html" rel="home">
+                        <a href="index.html" rel="home">
                             <img src="images/logo.png" alt="image">
                         </a>
                     </div><!-- /.logo -->
@@ -55,17 +51,23 @@
                         <nav id="mainnav" class="mainnav">
                             <ul class="menu"> 
                                 <li class="home">
-                                    <a href="index-2.html">Home</a>
+                                    <a href="index-2.html">Principal</a>
                                 </li>                                                          
-                                <li><a href="#">Services</a>
+                                <li><a href="#">Servicios</a>
                                     <ul class="submenu">
-                                        <li><a href="services-v1.html">Services Full Width</a></li>
-                                        <li><a href="services-v2.html">Services Sidebar Left</a></li>
-                                        <li><a href="services-single.html">Services Detail</a></li>
+                                        <li><a href="services-v1.html">Evaluación y Asesoría</a></li>
+                                        <li><a href="services-v2.html">Seguridad para Instalaciones</a></li>
+                                        <li><a href="services-single.html">Seguridad Personal</a></li>
+                                        <li><a href="services-v1.html">Seguridad Electrónica y Física</a></li>
+                                        <li><a href="services-v2.html">Capacitación y Adiestramiento</a></li>
+                                        <li><a href="services-single.html">Seguridad para Eventos</a></li>
+                                        <li><a href="services-v1.html">Logística de Eventos</a></li>
+                                        <li><a href="services-v2.html">Traslado Seguro</a></li>
+                                        <li><a href="services-single.html">Blindado de Vehículos</a></li>
                                     </ul><!-- /.submenu -->
                                 </li>                                 
-                                <li><a href="about.html">About</a></li>                           
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="about.html">Nosotros</a></li>                           
+                                <li><a href="contact.html">Contacto</a></li>
                             </ul><!-- /.menu -->
                         </nav><!-- /.mainnav -->
                     </div><!-- /.nav-wrap -->                                     

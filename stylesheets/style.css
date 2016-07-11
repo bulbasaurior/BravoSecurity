@@ -3334,3 +3334,13 @@ blockquote .whisper {
 	padding: 0;
 	background-color: #fff;
 }
+
+/* CUSTOMS
+-------------------------------------------------------------- */
+
+.col-center{
+	float: none;
+	margin: 0 auto;
+}
+
+.

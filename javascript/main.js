@@ -453,10 +453,10 @@
         $('.flat-carousel').each(function(){
             if ( $().owlCarousel ) {
                 $(this).find('.owl-carousel-services').owlCarousel({
-                    loop: true,
+                    loop: false,
                     margin: 30,
                     auto:true,
-                    dots: true,
+                    dots: false,
                     responsive:{
                         0:{
                             items: 1
