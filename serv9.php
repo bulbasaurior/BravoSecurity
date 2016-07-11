@@ -7,7 +7,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Evaluación y Asesoría</title>
+    <title>Blindado de Vehículos</title>
 
     <?php 
     include "header.php";
@@ -19,7 +19,7 @@
                     <div class="row">
                         <div class="col-md-12">                    
                             <div class="page-title-heading">
-                                <h2 class="title">Evaluación y Asesoría</h2>
+                                <h2 class="title">Blindado de Vehículos</h2>
                             </div><!-- /.page-title-captions -->
                            
                         </div><!-- /.col-md-12 -->  
@@ -36,28 +36,33 @@
                     <div class="flat-single">
                         <div class="content">
                             <h4 class="title"><a href="#"></a></h4>
-                            <p>Nuestro servicio de evaluación y asesoría profesional en seguridad evita que las organizaciones cuenten con un esfuerzo de seguridad pobre y un gasto elevado por ese concepto. Una seguridad efectiva deja de ser un gasto y se convierte en un activo por los beneficios que trae consigo.</p>
+                            <p>El blindado de vehículos es realizado por nuestra empresa hermana ETP Eurotecnología en Blindaje, blindador oficial de Land Rover en Mèxico. La trayectoria de ETB nos permite blindar, dar mantenimiento y diseñar vehículos blindados. </p>
                         </div>
                     </div> 
                 </div><!-- /.row -->
                        
                 <div class="row">
                     <div class="col-md-6">
-                                <img src="images/services/single/1.jpg" class="img-responsive">
+                                <img src="images/services/single/9.jpg" class="img-responsive">
                     </div><!-- /col-md-6 -->
 
                     <div id="left" class="col-md-6">
                         <div class="flat-single">
                             <div class="content">
-                                <h4 class="title"><a href="#">Nuestra asesoría permite:</a></h4>
+                                <h4 class="title"><a href="#">Caracteristicas del blindado ETB</a></h4>
                                 <ul class="flat-list">     
-                                    <li>Contar con un análisis completo de vulnerabilidad.</li> 
-                                    <li>Saber si su seguridad es insuficiente, efectiva o excesiva.</li>
-                                    <li>Ajustar su gasto de seguridad al necesario, que por lo general es menor.</li>
-                                    <li>Explotar los beneficios de control de materiales y nómina que la seguridad ofrece.</li>
-                                    <li>Ser asistido por nuestros técnicos en el proceso de mejora.</li>   
-                                    <li>Contar con manuales, consignas y procedimientos específicos para su caso.</li>
-                                    <li>Un estrecho vínculo entre su seguridad y autoridades locales.</li>                                    
+                                    <li>Uso de materiales de última generación.</li> 
+                                        <ul class="flat-list">     
+                                            <li>Máxima ligereza.</li> 
+                                            <li>Resistencia balística superior a la estándar.</li>                             
+                                        </ul>
+                                    <li>Acondicionamiento mecánico para mayor desempeño.</li>
+                                        <ul class="flat-list">     
+                                            <li>Motor, frenos, suspensión, bisagras etc.</li>                                                                        
+                                        </ul>
+                                    <li>Cero puntos vulnerables. (Balísticamente impregnable)</li>
+                                    <li>La estética del vehículo permanece intacta.</li>
+                                    <li>El vehículo es capaz de continuar en movimiento durante una agresión.</li>                             
                                 </ul>
                             </div>
                         </div>

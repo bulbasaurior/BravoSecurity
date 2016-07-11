@@ -7,7 +7,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Evaluación y Asesoría</title>
+    <title>Seguridad Personal</title>
 
     <?php 
     include "header.php";
@@ -19,7 +19,7 @@
                     <div class="row">
                         <div class="col-md-12">                    
                             <div class="page-title-heading">
-                                <h2 class="title">Evaluación y Asesoría</h2>
+                                <h2 class="title">Seguridad Personal</h2>
                             </div><!-- /.page-title-captions -->
                            
                         </div><!-- /.col-md-12 -->  
@@ -36,28 +36,27 @@
                     <div class="flat-single">
                         <div class="content">
                             <h4 class="title"><a href="#"></a></h4>
-                            <p>Nuestro servicio de evaluación y asesoría profesional en seguridad evita que las organizaciones cuenten con un esfuerzo de seguridad pobre y un gasto elevado por ese concepto. Una seguridad efectiva deja de ser un gasto y se convierte en un activo por los beneficios que trae consigo.</p>
+                            <p>Bravo es capaz de proveer el nivel de seguridad personal que su situación amerite. Lo anterior con las licencias requeridas por ley y personal extensivamente evaluado, capacitado y experimentado.</p>
                         </div>
                     </div> 
                 </div><!-- /.row -->
                        
                 <div class="row">
                     <div class="col-md-6">
-                                <img src="images/services/single/1.jpg" class="img-responsive">
+                                <img src="images/services/single/3.png" class="img-responsive">
                     </div><!-- /col-md-6 -->
 
                     <div id="left" class="col-md-6">
                         <div class="flat-single">
                             <div class="content">
-                                <h4 class="title"><a href="#">Nuestra asesoría permite:</a></h4>
+                                <h4 class="title"><a href="#">Entre los beneficios, encontramos:</a></h4>
                                 <ul class="flat-list">     
-                                    <li>Contar con un análisis completo de vulnerabilidad.</li> 
-                                    <li>Saber si su seguridad es insuficiente, efectiva o excesiva.</li>
-                                    <li>Ajustar su gasto de seguridad al necesario, que por lo general es menor.</li>
-                                    <li>Explotar los beneficios de control de materiales y nómina que la seguridad ofrece.</li>
-                                    <li>Ser asistido por nuestros técnicos en el proceso de mejora.</li>   
-                                    <li>Contar con manuales, consignas y procedimientos específicos para su caso.</li>
-                                    <li>Un estrecho vínculo entre su seguridad y autoridades locales.</li>                                    
+                                    <li>Discreción en el despliegue de seguridad.</li> 
+                                    <li>Disminución drástica de posibilidades de secuestro o atentado.</li>
+                                    <li>Mantenimiento cuidadoso del vehículo y equipo a cargo del personal de seguridad.</li>
+                                    <li>Evasión activa de situaciones de riesgo.</li>
+                                    <li>Evacuación inmediata de situaciones de peligro inminente.</li>                                       
+                                    <li>Coordinación con fuerzas de seguridad pública.</li>                             
                                 </ul>
                             </div>
                         </div>

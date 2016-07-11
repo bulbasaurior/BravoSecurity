@@ -106,7 +106,7 @@
                             </div>
                                 <br><br>
                                 <div class="col-md-4 col-center tp-caption sfr button-slider">
-                                <a class="btn btn-block" href="services.php">NOSOTROS</a>
+                                <a class="btn btn-block" href="services.php">Conoce Máss</a>
                                 </div>
                         </div><!-- /.flat-carousel -->
                     </div> <!-- /.col-md-12 -->

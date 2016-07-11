@@ -7,7 +7,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Evaluación y Asesoría</title>
+    <title>Traslado Seguro</title>
 
     <?php 
     include "header.php";
@@ -19,7 +19,7 @@
                     <div class="row">
                         <div class="col-md-12">                    
                             <div class="page-title-heading">
-                                <h2 class="title">Evaluación y Asesoría</h2>
+                                <h2 class="title">Traslado Seguro Punto a Punto</h2>
                             </div><!-- /.page-title-captions -->
                            
                         </div><!-- /.col-md-12 -->  
@@ -31,34 +31,19 @@
         <!-- Blog posts -->
         <section class="main-content sidebar-left bg-sidebar services v2">
             <div class="container">
-                
-                <div class="row col-md-12">
-                    <div class="flat-single">
-                        <div class="content">
-                            <h4 class="title"><a href="#"></a></h4>
-                            <p>Nuestro servicio de evaluación y asesoría profesional en seguridad evita que las organizaciones cuenten con un esfuerzo de seguridad pobre y un gasto elevado por ese concepto. Una seguridad efectiva deja de ser un gasto y se convierte en un activo por los beneficios que trae consigo.</p>
-                        </div>
-                    </div> 
-                </div><!-- /.row -->
                        
                 <div class="row">
                     <div class="col-md-6">
-                                <img src="images/services/single/1.jpg" class="img-responsive">
+                                <img src="images/services/single/8.jpg" class="img-responsive">
                     </div><!-- /col-md-6 -->
 
                     <div id="left" class="col-md-6">
                         <div class="flat-single">
                             <div class="content">
-                                <h4 class="title"><a href="#">Nuestra asesoría permite:</a></h4>
-                                <ul class="flat-list">     
-                                    <li>Contar con un análisis completo de vulnerabilidad.</li> 
-                                    <li>Saber si su seguridad es insuficiente, efectiva o excesiva.</li>
-                                    <li>Ajustar su gasto de seguridad al necesario, que por lo general es menor.</li>
-                                    <li>Explotar los beneficios de control de materiales y nómina que la seguridad ofrece.</li>
-                                    <li>Ser asistido por nuestros técnicos en el proceso de mejora.</li>   
-                                    <li>Contar con manuales, consignas y procedimientos específicos para su caso.</li>
-                                    <li>Un estrecho vínculo entre su seguridad y autoridades locales.</li>                                    
-                                </ul>
+                                <h4 class="title"><a href="#">Características de nuestro servicio:</a></h4>
+                                <p>Nuestro servicio de transporte de seguridad nos permite llevar todo tipo de personalidades de manera discreta y segura de punto a punto o durante una jornada determinada. Éste servicio consiste en un contingente de agentes de seguridad privada encargados de proteger a su principal durante su trayecto por aire o tierra. </p>
+                                <br>
+                                <p>Las características del servicio de transporte se derivan de un estudio de cada traslado en particular. Conociendo las necesidades del servicio, podemos recomendar los recursos necesarios para la operación. Los agentes pueden estar armados o desarmados, mientras que los vehículos pueden ser sedanes discretos o camionetas blindadas.</p>
                             </div>
                         </div>
                     </div><!-- /col-md-6 --> 
