@@ -1,4 +1,4 @@
-<meta name="author" content="themesflat.com">
+    <meta name="author" content="themesflat.com">
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -38,7 +38,7 @@
             <header id="header" class="header clearfix"> 
                 <div class="header-wrap clearfix">
                     <div id="logo" class="logo">
-                        <a href="index.html" rel="home">
+                        <a href="index.php" rel="home">
                             <img src="images/logo.png" alt="image">
                         </a>
                     </div><!-- /.logo -->
@@ -51,19 +51,19 @@
                         <nav id="mainnav" class="mainnav">
                             <ul class="menu"> 
                                 <li class="home">
-                                    <a href="index-2.html">Principal</a>
+                                    <a href="index.php">Principal</a>
                                 </li>                                                          
-                                <li><a href="#">Servicios</a>
+                                <li><a href="services.php">Servicios</a>
                                     <ul class="submenu">
-                                        <li><a href="services-v1.html">Evaluación y Asesoría</a></li>
-                                        <li><a href="services-v2.html">Seguridad para Instalaciones</a></li>
-                                        <li><a href="services-single.html">Seguridad Personal</a></li>
-                                        <li><a href="services-v1.html">Seguridad Electrónica y Física</a></li>
-                                        <li><a href="services-v2.html">Capacitación y Adiestramiento</a></li>
-                                        <li><a href="services-single.html">Seguridad para Eventos</a></li>
-                                        <li><a href="services-v1.html">Logística de Eventos</a></li>
-                                        <li><a href="services-v2.html">Traslado Seguro</a></li>
-                                        <li><a href="services-single.html">Blindado de Vehículos</a></li>
+                                        <li><a href="serv1.php">Evaluación y Asesoría</a></li>
+                                        <li><a href="serv2.php">Seguridad para Instalaciones</a></li>
+                                        <li><a href="serv3.php">Seguridad Personal</a></li>
+                                        <li><a href="serv4.php">Seguridad Electrónica y Física</a></li>
+                                        <li><a href="serv5.php">Capacitación y Adiestramiento</a></li>
+                                        <li><a href="serv6.php">Seguridad para Eventos</a></li>
+                                        <li><a href="serv7.php">Logística de Eventos</a></li>
+                                        <li><a href="serv8.php">Traslado Seguro</a></li>
+                                        <li><a href="serv9.php">Blindado de Vehículos</a></li>
                                     </ul><!-- /.submenu -->
                                 </li>                                 
                                 <li><a href="about.html">Nosotros</a></li>                           

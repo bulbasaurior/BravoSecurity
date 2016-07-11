@@ -26,7 +26,7 @@
                             <div class="tp-caption sfb title-slide box center color-white large" data-x="10" data-y="400" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Servicios Especiales de Seguridad Privada</div>
 
                             <div class="tp-caption sft button-slider" data-x="509" data-y="510" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a href="#">CONTACTO</a>                          
+                                <a class="btn btn-block" href="#">CONTACTO</a>                          
                             </div>
                             
                         </li>
@@ -56,7 +56,7 @@
                             
 
                             <div class="tp-caption sfr button-slider"   data-x="509" data-y="559" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a href="#">NOSOTROS</a>
+                                <a class="btn btn-block" href="#">NOSOTROS</a>
                             </div>
                             
                         </li>
@@ -105,9 +105,9 @@
 
                             </div>
                                 <br><br>
-                                <div class="col-md-5 col-center">
-                                <button class="btn button-success btn-block btn-lg" href="#">VER MÁS</button> 
-                            </div>
+                                <div class="col-md-4 col-center tp-caption sfr button-slider">
+                                <a class="btn btn-block" href="services.php">NOSOTROS</a>
+                                </div>
                         </div><!-- /.flat-carousel -->
                     </div> <!-- /.col-md-12 -->
                 </div> <!-- /.row -->
