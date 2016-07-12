@@ -7,7 +7,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Seguridad para Instalaciones</title>
+    <title>Seguridad a Instalaciones</title>
 
     <?php 
     include "header.php";
@@ -19,7 +19,7 @@
                     <div class="row">
                         <div class="col-md-12">                    
                             <div class="page-title-heading">
-                                <h2 class="title">Seguridad para Instalaciones</h2>
+                                <h2 class="title">Seguridad a Instalaciones</h2>
                             </div><!-- /.page-title-captions -->
                            
                         </div><!-- /.col-md-12 -->  

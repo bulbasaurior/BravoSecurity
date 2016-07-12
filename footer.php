@@ -9,7 +9,7 @@
                             <div class="widget widget-text">
                                 <h4 class="widget-title">Contáctanos </h4>
                                 <div class="textwidget">                                
-                                    <p>Estámos disponibles para ti en horario...</p>
+                                    <p>Estámos disponibles para ti en horario 9:00 a 17:00</p>
                                 </div><!-- /.textwidget -->
                                 <ul class="unstyled">
                                     <li class="mail"><a href="#">contacto@bravoseguridad.com</a></li>

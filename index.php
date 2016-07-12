@@ -19,23 +19,24 @@
                                 <img src="images/slides/1.png" alt="images" data-easing="Power3.easeInOut">
                             </div>
 
-                            <div class="tp-caption sfb title-slide box center color-white large" data-x="10" data-y="400" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Servicios Especiales de Seguridad Privada</div>
+                            <div class="tp-caption sfb title-slide box center color-white large" data-x="200" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Bravo Servicios Especiales</div>
 
-                            <div class="tp-caption sft button-slider" data-x="509" data-y="510" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a class="btn btn-block" href="contact.php">CONTACTO</a>                          
+                            <div class="tp-caption sfb title-slide box center color-white large" data-x="270" data-y="487" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">de Seguridad Privada</div>
+
+                            <div class="tp-caption sft button-slider" data-x="509" data-y="559" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
+                                <a href="contact.php">CONTACTO</a>                          
                             </div>
                             
                         </li>
 
                         <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                            <img src="images/slides/2.png" alt="slider-image" />
+                            <img src="images/slides/2.jpg" alt="slider-image" />
 
                             <div class="tp-caption sfl"   data-x="460" data-y="180" data-speed="1000" data-start="500" data-easing="Power3.easeInOut">
                                 <img src="images/slides/1.png" alt="images" data-easing="Power3.easeInOut">
                             </div>
 
-                            <div class="tp-caption sft title-slide box center color-white large" data-x="50" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Somos una empresa 100% Mexicana</div>
-                        
+                            <div class="tp-caption sft title-slide box center color-white large" data-x="-50" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">Más de diez años de experiencia en el mercado </div>
 
                         </li>
 
@@ -46,13 +47,15 @@
                                 <img src="images/slides/1.png" alt="images" data-easing="Power3.easeInOut">
                             </div>
 
-                            <div class="tp-caption sfr title-slide box center color-white large" data-x="104" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">“Contribuir al restablecimiento de </div>
+                            <div class="tp-caption sfr title-slide box center color-white large" data-x="350" data-y="427" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">“Nuesta misión: </div>
 
-                            <div class="tp-caption sfr title-slide box center color-white large" data-x="320" data-y="487" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">un México seguro”</div>
+                            <div class="tp-caption sfr title-slide box center color-white large" data-x="104" data-y="487" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">“Contribuir al restablecimiento de </div>
+
+                            <div class="tp-caption sfr title-slide box center color-white large" data-x="320" data-y="547" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">un México seguro”</div>
                             
 
-                            <div class="tp-caption sfr button-slider"   data-x="509" data-y="559" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
-                                <a class="btn btn-block" href="about.php">NOSOTROS</a>
+                            <div class="tp-caption sfr button-slider"   data-x="509" data-y="629" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut">
+                                <a  href="about.php">NOSOTROS</a>
                             </div>
                             
                         </li>
@@ -74,7 +77,7 @@
                                     </div>
                                     <div class="content">
                                          <span>01</span>
-                                         <h6>Seguridad para instalaciones</h6>
+                                         <h6>Seguridad a instalaciones</h6>
                                          <p>La clave para un servicio de seguridad a instalaciones de calidad se encuentra en la selección, capacitación y supervisión del personal de guardias, así como las dinámicas implementadas a partir de un estudio meticuloso de la instalación.</p>
                                     </div>
                                 </div>
@@ -84,7 +87,7 @@
                                     </div>
                                      <div class="content">
                                         <span>02</span>
-                                        <h6>Seguridad para eventos</h6>
+                                        <h6>Seguridad a eventos</h6>
                                         <p>Nuestra empresa es capaz de proveer cada aspecto de la seguridad en un evento. Esto incluye el material para delimitar perímetros y a los agentes que controlan el acceso al evento, flujo de asistentes y seguridad personal de expositores. </p>
                                      </div>
                                 </div>
@@ -102,7 +105,7 @@
                             </div>
                                 <br><br>
                                 <div class="col-md-4 col-center tp-caption sfr button-slider">
-                                <a class="btn btn-block" href="services.php">Conoce Más</a>
+                                <a class="btn btn-block" href="services.php">Más Servicios</a>
                                 </div>
                         </div><!-- /.flat-carousel -->
                     </div> <!-- /.col-md-12 -->

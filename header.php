@@ -56,11 +56,11 @@
                                 <li><a href="services.php">Servicios</a>
                                     <ul class="submenu">
                                         <li><a href="serv1.php">Evaluación y Asesoría</a></li>
-                                        <li><a href="serv2.php">Seguridad para Instalaciones</a></li>
+                                        <li><a href="serv2.php">Seguridad a Instalaciones</a></li>
                                         <li><a href="serv3.php">Seguridad Personal</a></li>
                                         <li><a href="serv4.php">Seguridad Electrónica y Física</a></li>
                                         <li><a href="serv5.php">Capacitación y Adiestramiento</a></li>
-                                        <li><a href="serv6.php">Seguridad para Eventos</a></li>
+                                        <li><a href="serv6.php">Seguridad a Eventos</a></li>
                                         <li><a href="serv7.php">Logística de Eventos</a></li>
                                         <li><a href="serv8.php">Traslado Seguro</a></li>
                                         <li><a href="serv9.php">Blindado de Vehículos</a></li>

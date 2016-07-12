@@ -51,7 +51,7 @@
                             </div><!-- /icon -->
                         
                             <div class="content">
-                                <h6 class="title"><a href="serv2.php">Seguridad para Instalaciones</a></h6>
+                                <h6 class="title"><a href="serv2.php">Seguridad a Instalaciones</a></h6>
                                 <p>La clave para un servicio de seguridad a instalaciones de calidad se encuentra en la selección, capacitación y supervisión del personal de guardias, así como las dinámicas implementadas a partir de un estudio meticuloso de la instalación.
                                 </p>   
                                 <div class="more-detail" >
@@ -125,7 +125,7 @@
                             </div><!-- /icon -->
                         
                             <div class="content">
-                                <h6 class="title"><a href="serv6.php">Seguridad para Eventos</a></h6>
+                                <h6 class="title"><a href="serv6.php">Seguridad a Eventos</a></h6>
                                 <p>GNuestra empresa es capaz de proveer cada aspecto de la seguridad en un evento. Esto incluye el material para delimitar perímetros y a los agentes que controlan el acceso al evento, flujo de asistentes y seguridad personal de expositores. 
                                 </p>   
                                 <div class="more-detail" >

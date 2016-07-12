@@ -36,7 +36,8 @@
                                 	<div class="text-tab">
 	                                    <div class="flat-title">
 				                            <h3>Conócenos<span></span></h3>
-				                            <div class="decs">
+				                            <h5>Nuestra misión:</h5>
+                                            <div class="decs">
 				                                “Contribuir al restablecimiento de un México seguro”
 				                            </div><!-- /.decs -->
 				                        </div><!-- /.flat-title -->
