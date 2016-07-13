@@ -492,7 +492,11 @@ input[type="color"],
 .header .header-wrap .logo {		
 	float: left;
 	margin: 0 0 0 52px;	
+<<<<<<< HEAD
 	width: 240px;
+=======
+	width: 180px;
+>>>>>>> origin/master
 }
 
 .header .header-wrap .show-search,

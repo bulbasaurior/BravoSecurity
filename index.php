@@ -5,6 +5,7 @@
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <title>Bravo Security</title>
     <?php 
+    $active = "principal";
     include "header.php";
      ?>
     

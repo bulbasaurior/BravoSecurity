@@ -6,6 +6,7 @@
     <title>Contacto</title>
 
     <?php 
+    $active = "contacto";
     include "header.php";
      ?>
 

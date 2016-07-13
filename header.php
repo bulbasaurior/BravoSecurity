@@ -1,4 +1,12 @@
-    <meta name="author" content="themesflat.com">
+    <meta name="author" content="DavidRodriguez">
+    <meta name="keywords" content="seguridad en Morelia, blindaje de vehiculos, logistica para eventos, traslado seguro" />
+    <meta name="description" content="Bravo Servicios Especiales de Seguridad Privada, somos una empresa 100% mexicana y con más de diez años de experiencia en cada rama que involucre la seguridad de nuestros clientes">
+    <meta name="robots" content="index, follow">
+    <!-- Metas Facebook -->
+    <meta property="og:url"  content="http://www.bravoseguridad.com/" />
+    <meta property="og:title" content="Bravo Servicios Especiales de Seguridad Privada" />
+    <meta property="og:description" content="Bravo Servicios Especiales de Seguridad Privada, somos una empresa 100% mexicana y con más de diez años de experiencia en cada rama que involucre la seguridad de nuestros clientes    " />
+    <meta property="og:image" content="http://www.bravoseguridad.com/images/logo.png" />
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -50,10 +58,10 @@
 
                         <nav id="mainnav" class="mainnav">
                             <ul class="menu"> 
-                                <li class="home">
+                                <li <?php if($active == "principal") echo "class='home'" ?> >
                                     <a href="index.php">Principal</a>
                                 </li>                                                          
-                                <li><a href="services.php">Servicios</a>
+                                <li <?php if($active == "servicios") echo "class='home'" ?> ><a href="services.php">Servicios</a>
                                     <ul class="submenu">
                                         <li><a href="serv1.php">Evaluación y Asesoría</a></li>
                                         <li><a href="serv2.php">Seguridad a Instalaciones</a></li>
@@ -66,8 +74,8 @@
                                         <li><a href="serv9.php">Blindado de Vehículos</a></li>
                                     </ul><!-- /.submenu -->
                                 </li>                                 
-                                <li><a href="about.php">Nosotros</a></li>                           
-                                <li><a href="contact.php">Contacto</a></li>
+                                <li <?php if($active == "nosotros") echo "class='home'" ?> ><a href="about.php">Nosotros</a></li>                           
+                                <li <?php if($active == "contacto") echo "class='home'" ?> ><a href="contact.php">Contacto</a></li>
                             </ul><!-- /.menu -->
                         </nav><!-- /.mainnav -->
                     </div><!-- /.nav-wrap -->                                     

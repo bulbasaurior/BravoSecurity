@@ -6,6 +6,7 @@
     <title>Servicios</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 

@@ -10,6 +10,7 @@
     <title>Seguridad a Eventos</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 
