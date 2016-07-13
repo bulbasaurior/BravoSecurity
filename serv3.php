@@ -10,6 +10,7 @@
     <title>Seguridad Personal</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 

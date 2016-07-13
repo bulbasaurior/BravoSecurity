@@ -10,6 +10,7 @@
     <title>Logística de Eventos</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 

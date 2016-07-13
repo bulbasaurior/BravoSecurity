@@ -7,6 +7,7 @@
     <title>Nosotros</title>
 
     <?php 
+    $active = "nosotros";
     include "header.php";
      ?>
 

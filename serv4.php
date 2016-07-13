@@ -10,6 +10,7 @@
     <title>Seguridad Electrónica y Física</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 

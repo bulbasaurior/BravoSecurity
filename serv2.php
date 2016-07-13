@@ -10,6 +10,7 @@
     <title>Seguridad a Instalaciones</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 

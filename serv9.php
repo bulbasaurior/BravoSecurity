@@ -10,6 +10,7 @@
     <title>Blindado de Vehículos</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 

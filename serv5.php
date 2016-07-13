@@ -10,6 +10,7 @@
     <title>Capacitación y Adiestramiento</title>
 
     <?php 
+    $active = "servicios";
     include "header.php";
      ?>
 
