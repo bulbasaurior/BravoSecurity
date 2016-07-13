@@ -14,7 +14,7 @@
                                 <ul class="unstyled">
                                     <li class="mail"><a href="#">contacto@bravoseguridad.com</a></li>
                                     <li class="phone"><a href="#">(443) 504 31 32</a></li>  
-                                    <li class="mail"><a href="http://m.facebook.com/bravoseguridad">Facebook.bravoseguridad</a></li>  
+                                    <li class="mail"><a href="http://m.facebook.com/bravoseguridad" target="_blank">Facebook.bravoseguridad</a></li>  
                                 </ul> 
 
                             </div><!-- /.widget -->      
@@ -29,7 +29,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="copyright"> 
-                            <p></a>
+                            <p><a href="https://www.facebook.com/davidrodib" target="_blank">David Rodríguez | 2016</a>
                             </p>
                         </div>
 
