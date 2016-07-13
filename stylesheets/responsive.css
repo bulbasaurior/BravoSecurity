@@ -61,10 +61,10 @@
 	}
 
 	.header .header-wrap .logo {
-		width: 50px;		
+		width: 100px;		
 		/*margin: 0 0 0 15px;*/
 	    position: absolute;
-	    left: 50%;
+	    left: 45%;
 	    margin-left: -35px;
 	}
 
